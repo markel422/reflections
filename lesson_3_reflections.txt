@@ -9,3 +9,9 @@ I would use forks if I want to clone only within GitHub, use clone if I'm lookin
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that if a pull were to occur, the developer would have to option to view the conflicted file from both new additions and old changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We would do so using between Git Bash and by another other communication device such as a smartphone. It would be easier because it wouldn't require internet access to do this. However, it would also become harder since the requests will not be shown in simple display form compared to a webpage.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in a separate branch if I'm not looking to include that change into master just yet. The benefits of doing this is that it protects the main branch from being affected from any bugs that can occur with doing changes but it would also create more work with merging data in this case.
