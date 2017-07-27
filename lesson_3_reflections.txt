@@ -3,3 +3,6 @@ I would use it if I'm confident enough for it to be shared and edited publicly t
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It gives developers the option to choose what state of the files to pull from to checkout its state of a project, such as to see bugs.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+I would use forks if I want to clone only within GitHub, use clone if I'm looking to clone only locally to my computer, and use branch if I want to change a commit without actually changing the main branch.
